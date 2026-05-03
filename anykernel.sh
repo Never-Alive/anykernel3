@@ -5,6 +5,10 @@
 # global properties
 properties() { '
 kernel.string=Zorix-kernel
+kernel.revision=1.0
+kernel.compiler=Google clang 22.0.0
+kernel.made=Lucifer
+anykernel3.made=osm0sis @ xda-developers
 do.devicecheck=1
 do.cleanup=1
 device.name1=haydn
