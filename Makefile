@@ -1,5 +1,5 @@
 # Zip Naming
-KNAME ?= Zorix-v1.0
+KNAME ?= Zorix-v2.0
 CODENAME ?= haydn
 DATE ?= $(shell date "+%H%M")
 
