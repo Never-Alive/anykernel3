@@ -14,7 +14,6 @@ do.cleanup=1
 device.name1=haydn
 device.name2=haydnin
 device.name3=haydnpro
-device.name4=lisa
 supported.versions=15-17
 supported.patchlevels=
 supported.vendorpatchlevels=
